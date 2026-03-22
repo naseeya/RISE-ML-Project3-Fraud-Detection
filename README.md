@@ -119,4 +119,4 @@ python fraud_detection.py
 
 
 
-*RISE Internship | Tamizan Skills | www.tamizhanskills.com*
+*RISE 4.0 Internship | Tamizhan Skills | www.tamizhanskills.com*
