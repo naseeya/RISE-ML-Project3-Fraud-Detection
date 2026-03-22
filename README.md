@@ -112,4 +112,4 @@ Metrics used: **Precision, Recall, F1-Score, ROC-AUC**
 ---
 
 
-*RISE 4.0 Internship | Tamizhan Skills | www.tamizhanskills.com*
+*RISE 4.0 Internship | Tamizhan Skills*
